@@ -1,0 +1,50 @@
+
+.header-container {
+    font-size: 50px;
+    display: flex;
+    font-family: 'Quicksand', sans-serif;
+    color: dimgray
+}
+
+.header-text-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img {
+    display: flex;
+    justify-content: start;
+    width: 25%;
+}
+
+.currentTab {
+    font-size: 20px;
+}
+
+ .nav-bar{
+    display: flex;
+    justify-content: space-around;
+    font-size: x-large;
+}
+
+.h3 {
+    background-color: lightgrey;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.lorem-ipsum {
+    padding: 20px;;
+    font-family: 'Quicksand', sans-serif;
+    font-size: medium;
+    line-height: 150%;
+}
+
+.copyright {
+    font-size: small;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    color: grey;
+}
