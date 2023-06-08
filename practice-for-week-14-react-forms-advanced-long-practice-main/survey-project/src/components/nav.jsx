@@ -4,6 +4,7 @@ import '../css-reset.css';
 
 const Nav = () => {
     return (
+        
         <nav className="nav-bar">
             <h3 className="h3">Sample Survey</h3>
             <h3 className="h3">Sensory Preferences</h3>
